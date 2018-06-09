@@ -1,5 +1,5 @@
 # VSC_RL
-!(https://i.imgur.com/Qex1LvJ.jpg)
+![VSC_RL](https://i.imgur.com/Qex1LvJ.jpg)
 
 Patches de Max para VSC_RL: controladores análogos para de síntesis de video virtual.
 /
