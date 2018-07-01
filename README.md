@@ -1,5 +1,9 @@
 # VSC_RL
 
+VSC_RL is a group of analog controllers for virtual video synthesis.
+//
+VSC_RL es un conjunto de controladores análogos para síntesis de video virtual.
+
 ![VSC_RL](https://i.imgur.com/Qex1LvJ.jpg)
 
 # VSynth
